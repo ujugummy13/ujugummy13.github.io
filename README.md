@@ -1,2 +1,2 @@
 # ujugummy13.github.io
-Personal Github page
+Welcome to my personal Github pages
